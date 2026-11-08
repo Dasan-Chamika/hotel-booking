@@ -11,7 +11,7 @@ This personal portfolio project focuses on modern frontend development, reusable
 
 ## Application Preview
 
-![Hotel Booking Homepage](screenshots/hotel-booking-homepage.png)
+![Hotel Booking Homepage](images/hotel-booking-homepage.png)
 
 ## Overview
 
